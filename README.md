@@ -40,7 +40,8 @@ Coding is not just work for me—it’s creativity ✨, problem-solving 🌷, an
 ---
 
 ## ✨ Fun Contribution Graph
-![Snake animation](https://github.com/muffin-123/muffin-123/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/muffin-123/muffin-123/blob/output/snake.svg)
+
 
 ---
 
