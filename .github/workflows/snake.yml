@@ -1,0 +1,29 @@
+name: Generate Pastel Purple Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: muffin-123
+          outputs: dist/snake.svg
+          color_snake: BA9CD9       # pastel purple snake
+          color_dots: "e5d4f9,ffffff,BA9CD9,ffffff,e5d4f9"  # light pastel shades for dots
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
