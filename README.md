@@ -3,33 +3,46 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9CD9&height=200&section=header&text=Hi%20I'm%20Rooha%20Tanveer%20💜&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
----
 
-## 💫 About Me  
-Hello! I’m **Rooha Tanveer**, a final year Computer Science student with a deep passion for **Artificial Intelligence and Machine Learning** 🌸.  
-I love exploring how data can transform into intelligent solutions, and I’m constantly building my skills in **AI/ML models, .NET development, SaaS applications, and databases (SQL & NoSQL)**.  
-Coding is not just work for me—it’s creativity ✨, problem-solving 🌷, and a way to bring cute ideas 💜 into reality.  
 
----
+<!-- Banner (Option 2: quick auto banner—remove if you use your own image) -->
+<!--
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=BA9CD9&text=Rooha%20Tanveer&desc=AI%20%26%20ML%20Developer%20•%20.NET%20•%20Databases&fontColor=ffffff&descAlignY=70&height=140" />
+</p>
+-->
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BA9CD9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rooha-tanveer-220476282/)  
-[![X](https://img.shields.io/badge/Twitter-BA9CD9?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rooha_Tanveer?t=fLi0THZiVy-Hcq-nSBiSlg&s=08)
+I’m a final-year **CS student** who loves building **AI/ML** things that actually ship 🌸.  
+💜 My toolkit blends **Python + TensorFlow/PyTorch + scikit-learn** with **.NET/C#** and solid **database design** (SQL & NoSQL).  
+I love exploring how data can transform into intelligent solutions 🌷.
 
----
+### Find me around the web 🌍
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-BA9CD9?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-BA9CD9?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-BA9CD9?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-BA9CD9?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-BA9CD9?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-BA9CD9?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-BA9CD9?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-BA9CD9?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-BA9CD9?style=for-the-badge&logo=react&logoColor=white)
+- Sharing updates on **LinkedIn**: <a href="https://www.linkedin.com/in/rooha-tanveer-220476282/">linkedin.com/in/rooha-tanveer-220476282</a> 📌
+- Thoughts & tiny wins on **X (Twitter)**: <a href="https://x.com/Rooha_Tanveer?t=fLi0THZiVy-Hcq-nSBiSlg&s=08">@Rooha_Tanveer</a> 🦄  
+- Say hi via **email**: <a href="mailto:rooha9tanveer@gmail.com">rooha9tanveer@gmail.com</a> 💌
 
----
+<!-- cute pastel buttons (optional) -->
+<p align="left">
+  <a href="https://www.linkedin.com/in/rooha-tanveer-220476282/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-BA9CD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=d8c6ec" />
+  </a>
+  <a href="https://x.com/Rooha_Tanveer?t=fLi0THZiVy-Hcq-nSBiSlg&s=08">
+    <img src="https://img.shields.io/badge/🦄%20X(Twitter)-BA9CD9?style=for-the-badge&logo=twitter&logoColor=white&labelColor=d8c6ec" />
+  </a>
+  <a href="mailto:rooha9tanveer@gmail.com">
+    <img src="https://img.shields.io/badge/💌%20Email-BA9CD9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=d8c6ec" />
+  </a>
+</p>
+
+
+
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,dotnet,postgres,mongodb,js,react,tensorflow,pytorch,sklearn,git&perline=8" />
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -37,14 +50,7 @@ Coding is not just work for me—it’s creativity ✨, problem-solving 🌷, an
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muffin-123&theme=tokyonight&ring=BA9CD9&fire=BA9CD9&currStreakLabel=BA9CD9&background=1c1c1c" alt="GitHub Streak" />
 </p>
 
----
 
-## ✨ Fun Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/muffin-123/muffin-123/output/snake.svg)
-
-
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9CD9&height=150&section=footer" />
