@@ -3,6 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BA9CD9&height=200&section=header&text=Hi%20I'm%20Rooha%20Tanveer%20💜&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="./assets/github.png" alt="Visitor Counter" width="300"/>
+</p>
 
 
 <!-- Banner (Option 2: quick auto banner—remove if you use your own image) -->
@@ -50,6 +53,16 @@ I love exploring how data can transform into intelligent solutions 🌷.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muffin-123&theme=tokyonight&ring=BA9CD9&fire=BA9CD9&currStreakLabel=BA9CD9&background=1c1c1c" alt="GitHub Streak" />
 </p>
 
+
+## 📈 Contribution Activity
+
+[![Rooha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muffin-123&bg_color=1c1c1c&color=BA9CD9&line=BA9CD9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## 📈 Profile Visitors Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muffin-123&style=for-the-badge&color=BA9CD9&label=Visitors💜" alt="profile views"/>
+</p>
 
 
 <p align="center">
