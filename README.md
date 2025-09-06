@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/github.png" alt="Visitor Counter" width="300"/>
+  <img src="./github.png"  width="700" />
 </p>
 
 
